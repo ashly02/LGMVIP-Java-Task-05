@@ -1,18 +1,6 @@
-## Getting Started
+## LGMVIP-Java-Task-05
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Text Editor built using Java uses JTextArea, JMenu, JMenuItems, and JMenuBar to perform various tasks. It allows the user to enter, change, store, and print text. It also has a file menu to make changes in files (like open, save, close, and print) for future reference. and an edit menu to cut, copy and paste texts. Also, it has a “Save and Submit” button to close the file after saving the data. An actionListener is also used to detect actions in the project. 
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Technologies used:
+Java, Java Swing, Java AWT, JTextArea, JMenuBar, JMenu, and JMenuItems.
